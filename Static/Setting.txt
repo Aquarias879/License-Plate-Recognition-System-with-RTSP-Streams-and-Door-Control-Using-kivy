@@ -1,0 +1,7 @@
+0
+rtsp://admin:dh123456@192.168.2.169:554/cam/realmonitor?channel=2&subtype=0
+rtsp://admin:dh123456@192.168.2.169:554/cam/realmonitor?channel=4&subtype=0
+http://localhost:5000/api/Act/GetCarno
+http://localhost:5000/api/Act/ENTRY
+http://localhost:5000/api/Act/EXIT1
+http://localhost:5000/api/Act/EXIT2
